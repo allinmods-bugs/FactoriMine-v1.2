@@ -1,4 +1,4 @@
-## This page will be in French !
+## CAUTION !!! This page will be in French !
 
 Bienvenue. Vous vous trouvez actullement sur notre page de Présentation GitHub. AllInMods est une Organisation Francophone de création de contenu qui tourne principalement autour de Minecraft.
 
