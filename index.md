@@ -1,8 +1,16 @@
 ## This page will be in French !
 
-You can use the [editor on GitHub](https://github.com/allinmods-bugs/factorimine-1.2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenue. Vous vous trouvez actullement sur notre page de Présentation GitHub. AllInMods est une Organisation Francophone de création de contenu qui tourne principalement autour de Minecraft.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nous avons actullement 5 modpacks, 1 mod & aucun resource pack.
+
+Nous sommes toujours à la recherche de membres actif Francophone.
+Si vous avez les compétences suivantes, envoyez nous un courriel è l'adresse qui suivera.
+1. Vous êtes très patient;
+2. Vous avez des compétence en programmation, scripts, graphisme ou autre qui pourrait aider à la création de contenu;
+3. Vous êtes prêt à faire du "gros" travail **Sans être payé**;
+4. Vous êtes "fan" de Minecraft;
+5. Vous avez déjà créé : un mod, un modpack et/ou un resource pack;
 
 ### Markdown
 
