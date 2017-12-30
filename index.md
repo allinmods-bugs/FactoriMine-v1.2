@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This page will be in French !
 
 You can use the [editor on GitHub](https://github.com/allinmods-bugs/factorimine-1.2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
